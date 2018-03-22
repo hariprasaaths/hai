@@ -1,3 +1,2 @@
 # hai
-sample
 hello 
